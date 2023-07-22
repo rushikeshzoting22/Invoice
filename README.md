@@ -1,6 +1,4 @@
-## Invoicer
-
-An online invoicing software that helps you craft and print professional invoices for your customers for free! Keep your business and clients with one invoicing software.
+## Invoice Generator
 
 ### Live URL: [http://invoicer-eta.vercel.app/](https://invoice-mauve.vercel.app/)
 
